@@ -1,5 +1,7 @@
 {
   "port": 4173,
+  "cvLang": "en",
+  "uiLang": "en",
   "git": {
     "enabled": true,
     "remoteUrl": "git@github-personal:haipn5984/job_cv_data.git",
