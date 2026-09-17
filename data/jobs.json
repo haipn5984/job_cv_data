@@ -3,11 +3,11 @@
     "id": "id-1789373517187-i5hyd8",
     "company": "OTS",
     "position": "Mobile Developer",
-    "status": "Applied",
+    "status": "Rejected",
     "date": "2026-09-14",
     "location": "Da Nang",
     "link": "https://ots.one-line.com/en/careers/mobile-developer-9t1xd5rhasnyf72",
-    "notes": ""
+    "notes": "Reject because of cannot deal salary"
   },
   {
     "id": "id-1789463849536-gkfidt",
@@ -17,6 +17,16 @@
     "date": "2026-09-09",
     "location": "Ha Noi",
     "link": "",
+    "notes": ""
+  },
+  {
+    "id": "id-1789634455731-qhsgad",
+    "company": "Unicorn Digital",
+    "position": "Sennior Flutter Dev",
+    "status": "Applied",
+    "date": "2026-09-17",
+    "location": "Da Nang",
+    "link": "https://itviec.com/viec-lam-it/senior-full-stack-mobile-developer-flutter-react-digital-unicorn-0728?lab_feature=preview_jd_page",
     "notes": ""
   }
 ]
