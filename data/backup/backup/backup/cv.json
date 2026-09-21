@@ -1,156 +1,316 @@
 {
-  "personal": {
-    "fullName": "Pham Ngoc Hai",
-    "title": "Senior Flutter Developer",
-    "email": "haipn5984@gmail.com",
-    "phone": "+84 363 450 999",
-    "location": "Da Nang, Vietnam",
-    "avatar": "",
-    "summary": "Senior Flutter Developer with 4+ years of experience building scalable mobile applications across SaaS, hospitality, government, and blockchain domains. Strong expertise in Flutter architecture, GraphQL integration, monorepo development, and CI/CD automation. Experienced in delivering production-ready applications published on the App Store and Google Play with a focus on maintainability, performance, and clean architecture.\nStrong English reading & listening comprehension, with hands-on experience writing technical documentation in English. Actively leverages AI tools (ChatGPT, Gemini for research; Claude for custom development skills, MCP workflows, and Figma-to-code generation) to accelerate delivery."
-  },
-  "experience": [
-    {
-      "id": "id-1789368592328-i8lzp1",
-      "title": "Senior Flutter Developer",
-      "org": "Enosta — Da Nang",
-      "dateRange": "April 2025 – Present",
-      "bullets": "Developed and maintained Smartos Admin, a production mobile application published on the App Store and Google Play (April 2025 – June 2026).\nTransitioned to independently lead development of Đại Thắng Holdings, a multi-tenant white-label investor portal, from architecture through release (June 2026 – Present).\nContributed to building and improving the base project structure and development guidelines; identified technical risks early and proposed refactoring (module consolidation, dependency conflict resolution in Melos monorepo).\nOptimized build performance to improve development and release efficiency.\nWrote project documentation and mentored team members during development.\nParticipated in code reviews, dev testing against QA checklists, and sprint planning/estimation to ensure release quality.\nCollaborated with cross-functional teams to deliver product features."
-    },
-    {
-      "id": "id-1789368592328-0p5le2",
-      "title": "Middle Flutter Developer",
-      "org": "Revotech, MiraboTech",
-      "dateRange": "May 2024 – April 2025",
-      "bullets": "Refactored legacy Flutter codebases and integrated updated libraries, enhancing scalability and improving user experience across platforms.\nDevised and deployed automated unit testing frameworks (flutter_test, Mockito), accelerating release cycles and improving reliability.\nIntegrated RESTful APIs and managed state using BLoC architecture, reducing complexity while supporting real-time data synchronization."
-    },
-    {
-      "id": "id-1789456123001-ezc001",
-      "title": "Flutter Developer",
-      "org": "ezCloud, Ha Noi",
-      "dateRange": "April 2023 – May 2024",
-      "bullets": "Developed and maintained hotel management applications, implementing business features and optimizing performance.\nCollaborated with team members to improve maintainability and user experience.\nFixed production issues and improved application stability."
-    },
-    {
-      "id": "id-1789456123002-syn001",
-      "title": "Flutter Developer",
-      "org": "Synodus, Ha Noi",
-      "dateRange": "April 2021 – March 2023",
-      "bullets": "Developed Flutter applications for blockchain and government domains.\nImplemented UI and integrated REST APIs, optimizing performance and fixing production issues.\nCollaborated with cross-functional teams in an Agile environment."
-    },
-    {
-      "id": "id-1789456123003-vtt001",
-      "title": "IT Specialist",
-      "org": "Viettel Son La, Viettel",
-      "dateRange": "July 2017 – March 2021",
-      "bullets": "Supported IT products and services including hardware, software, user management, and networking.\nMaintained technical documentation and internal software handover materials.\nAssisted customers with product requirements and served as a liaison between customers and support teams."
+  "vi": {
+      "personal": {
+        "fullName": "Pham Ngoc Hai",
+        "title": "Senior Flutter Developer",
+        "email": "haipn5984@gmail.com",
+        "phone": "+84 363 450 999",
+        "location": "Da Nang, Vietnam",
+        "avatar": "",
+        "summary": "Senior Flutter Developer with 4+ years of experience building scalable mobile applications across SaaS, hospitality, government, and blockchain domains. Strong expertise in Flutter architecture, GraphQL integration, monorepo development, and CI/CD automation. Experienced in delivering production-ready applications published on the App Store and Google Play with a focus on maintainability, performance, and clean architecture.\nStrong English reading & listening comprehension, with hands-on experience writing technical documentation in English. Actively leverages AI tools (ChatGPT, Gemini for research; Claude for custom development skills, MCP workflows, and Figma-to-code generation) to accelerate delivery."
+      },
+      "experience": [
+        {
+          "id": "id-1789368592328-i8lzp1",
+          "title": "Senior Flutter Developer",
+          "org": "Enosta — Da Nang",
+          "dateRange": "April 2025 – Present",
+          "bullets": "Developed and maintained Smartos Admin, a production mobile application published on the App Store and Google Play (April 2025 – June 2026).\nTransitioned to independently lead development of Đại Thắng Holdings, a multi-tenant white-label investor portal, from architecture through release (June 2026 – Present).\nContributed to building and improving the base project structure and development guidelines; identified technical risks early and proposed refactoring (module consolidation, dependency conflict resolution in Melos monorepo).\nOptimized build performance to improve development and release efficiency.\nWrote project documentation and mentored team members during development.\nParticipated in code reviews, dev testing against QA checklists, and sprint planning/estimation to ensure release quality.\nCollaborated with cross-functional teams to deliver product features."
+        },
+        {
+          "id": "id-1789368592328-0p5le2",
+          "title": "Middle Flutter Developer",
+          "org": "Revotech, MiraboTech",
+          "dateRange": "May 2024 – April 2025",
+          "bullets": "Refactored legacy Flutter codebases and integrated updated libraries, enhancing scalability and improving user experience across platforms.\nDevised and deployed automated unit testing frameworks (flutter_test, Mockito), accelerating release cycles and improving reliability.\nIntegrated RESTful APIs and managed state using BLoC architecture, reducing complexity while supporting real-time data synchronization."
+        },
+        {
+          "id": "id-1789456123001-ezc001",
+          "title": "Flutter Developer",
+          "org": "ezCloud, Ha Noi",
+          "dateRange": "April 2023 – May 2024",
+          "bullets": "Developed and maintained hotel management applications, implementing business features and optimizing performance.\nCollaborated with team members to improve maintainability and user experience.\nFixed production issues and improved application stability."
+        },
+        {
+          "id": "id-1789456123002-syn001",
+          "title": "Flutter Developer",
+          "org": "Synodus, Ha Noi",
+          "dateRange": "April 2021 – March 2023",
+          "bullets": "Developed Flutter applications for blockchain and government domains.\nImplemented UI and integrated REST APIs, optimizing performance and fixing production issues.\nCollaborated with cross-functional teams in an Agile environment."
+        },
+        {
+          "id": "id-1789456123003-vtt001",
+          "title": "IT Specialist",
+          "org": "Viettel Son La, Viettel",
+          "dateRange": "July 2017 – March 2021",
+          "bullets": "Supported IT products and services including hardware, software, user management, and networking.\nMaintained technical documentation and internal software handover materials.\nAssisted customers with product requirements and served as a liaison between customers and support teams."
+        }
+      ],
+      "projects": [
+        {
+          "id": "id-1789456123010-sma001",
+          "name": "Smartos Admin",
+          "org": "Enosta",
+          "dateRange": "April 2025 – June 2026",
+          "bullets": "Production business management application published on the App Store and Google Play.\nBuilt and maintained a scalable Flutter architecture with reusable modules in a Monorepo (Melos) structure.\nIntegrated GraphQL APIs, optimized data workflows, and implemented CI/CD automation for build and release.\nOptimized build performance to improve development and release efficiency."
+        },
+        {
+          "id": "id-1789368592328-i1fu3w",
+          "name": "Đại Thắng Holdings (Investor Portal)",
+          "org": "Enosta, Solo Project",
+          "dateRange": "June 2026 – Present",
+          "bullets": "Independently architected and built the mobile app (Flutter) for a production multi-tenant/white-label investor portal, from foundation to release v1.0.0 — solo ownership of the mobile client only (backend GraphQL services provided separately).\nUsed Riverpod 3 (code-gen), integrated with 4 backend GraphQL services, go_router, and Firebase Remote Config with dynamic per-tenant branding.\nEngineered an AI-assisted development workflow with 20+ custom Claude Code skills/agents (Figma-to-Flutter code generation, GraphQL API scaffolding, automated UI/performance/device-matrix testing, documentation generation) to accelerate solo delivery.\nSet up encrypted secrets management and multi-environment CI/CD (dev/staging/prod) for build and release.\nDevelopment complete; pending client approval for Google Play release and Apple unlisted-app review, targeting release on August 10, 2026."
+        },
+        {
+          "id": "id-1789456123011-ezc002",
+          "name": "ezCloudHotel Manager",
+          "org": "ezCloud",
+          "dateRange": "April 2023 – May 2024",
+          "bullets": "Hotel management mobile application with business workflow management features and REST API integration."
+        },
+        {
+          "id": "id-1789456123012-mpi001",
+          "name": "MPI Vietnam",
+          "org": "Synodus",
+          "dateRange": "January 2022 – March 2023",
+          "bullets": "Government application handling large-scale data, built on BLoC architecture."
+        },
+        {
+          "id": "id-1789456123013-defi01",
+          "name": "DeFi For You",
+          "org": "Synodus",
+          "dateRange": "April 2021 – December 2021",
+          "bullets": "Blockchain wallet and fintech application with Web3 integration and secure transaction workflows."
+        }
+      ],
+      "education": [
+        {
+          "id": "id-1789368592328-s62c5b",
+          "degree": "Bachelor of Information Technology",
+          "school": "Tay Bac University",
+          "dateRange": "2017",
+          "note": "GPA: 3.3"
+        }
+      ],
+      "skills": [
+        {
+          "id": "id-1789368592328-ujtcce",
+          "category": "Languages",
+          "value": "Dart, Kotlin, JavaScript"
+        },
+        {
+          "id": "id-1789368592328-wvmaq2",
+          "category": "Mobile Development",
+          "value": "Flutter, BLoC, MVVM, Clean Architecture, Provider, GetX, RxDart"
+        },
+        {
+          "id": "id-1789456123020-nat001",
+          "category": "Native Mobile",
+          "value": "Kotlin/Android (~8 months hands-on native experience)"
+        },
+        {
+          "id": "id-1789456123021-api001",
+          "category": "APIs & Networking",
+          "value": "REST API, GraphQL (Ferry), WebSocket, SignalR"
+        },
+        {
+          "id": "id-1789456123022-sto001",
+          "category": "Local Storage & Offline",
+          "value": "SQLite, Hive, flutter_secure_storage, SharedPreferences"
+        },
+        {
+          "id": "id-1789456123023-bck001",
+          "category": "Backend & Services",
+          "value": "Firebase (Cloud Messaging, Analytics, Crashlytics, Remote Config), NodeJS, NestJS, OneSignal, Web3"
+        },
+        {
+          "id": "id-1789456123024-tst001",
+          "category": "Testing",
+          "value": "Unit Testing (flutter_test, Mockito)"
+        },
+        {
+          "id": "id-1789456123025-dev001",
+          "category": "DevOps & Tools",
+          "value": "GitHub Actions, Fastlane, Monorepo, Melos, Git, Jira, Figma"
+        },
+        {
+          "id": "id-1789368592328-jp1tl4",
+          "category": "AI-Assisted Development",
+          "value": "ChatGPT & Gemini (research); Claude (custom skills, MCP workflows, Figma-to-UI code generation)"
+        },
+        {
+          "id": "id-1789456123026-frt001",
+          "category": "Frontend (self-taught)",
+          "value": "React"
+        },
+        {
+          "id": "id-1789456123027-eng001",
+          "category": "English",
+          "value": "Strong reading & listening comprehension; writes technical documentation in English"
+        },
+        {
+          "id": "id-1789456123028-add001",
+          "category": "Additional",
+          "value": "CI/CD, App Performance Optimization, Code Review, Agile/Scrum, App Store & Google Play Deployment"
+        }
+      ]
     }
-  ],
-  "projects": [
-    {
-      "id": "id-1789456123010-sma001",
-      "name": "Smartos Admin",
-      "org": "Enosta",
-      "dateRange": "April 2025 – June 2026",
-      "bullets": "Production business management application published on the App Store and Google Play.\nBuilt and maintained a scalable Flutter architecture with reusable modules in a Monorepo (Melos) structure.\nIntegrated GraphQL APIs, optimized data workflows, and implemented CI/CD automation for build and release.\nOptimized build performance to improve development and release efficiency."
-    },
-    {
-      "id": "id-1789368592328-i1fu3w",
-      "name": "Đại Thắng Holdings (Investor Portal)",
-      "org": "Enosta, Solo Project",
-      "dateRange": "June 2026 – Present",
-      "bullets": "Independently architected and built the mobile app (Flutter) for a production multi-tenant/white-label investor portal, from foundation to release v1.0.0 — solo ownership of the mobile client only (backend GraphQL services provided separately).\nUsed Riverpod 3 (code-gen), integrated with 4 backend GraphQL services, go_router, and Firebase Remote Config with dynamic per-tenant branding.\nEngineered an AI-assisted development workflow with 20+ custom Claude Code skills/agents (Figma-to-Flutter code generation, GraphQL API scaffolding, automated UI/performance/device-matrix testing, documentation generation) to accelerate solo delivery.\nSet up encrypted secrets management and multi-environment CI/CD (dev/staging/prod) for build and release.\nDevelopment complete; pending client approval for Google Play release and Apple unlisted-app review, targeting release on August 10, 2026."
-    },
-    {
-      "id": "id-1789456123011-ezc002",
-      "name": "ezCloudHotel Manager",
-      "org": "ezCloud",
-      "dateRange": "April 2023 – May 2024",
-      "bullets": "Hotel management mobile application with business workflow management features and REST API integration."
-    },
-    {
-      "id": "id-1789456123012-mpi001",
-      "name": "MPI Vietnam",
-      "org": "Synodus",
-      "dateRange": "January 2022 – March 2023",
-      "bullets": "Government application handling large-scale data, built on BLoC architecture."
-    },
-    {
-      "id": "id-1789456123013-defi01",
-      "name": "DeFi For You",
-      "org": "Synodus",
-      "dateRange": "April 2021 – December 2021",
-      "bullets": "Blockchain wallet and fintech application with Web3 integration and secure transaction workflows."
+,
+  "en": {
+      "personal": {
+        "fullName": "Pham Ngoc Hai",
+        "title": "Senior Flutter Developer",
+        "email": "haipn5984@gmail.com",
+        "phone": "+84 363 450 999",
+        "location": "Da Nang, Vietnam",
+        "avatar": "",
+        "summary": "Senior Flutter Developer with 4+ years of experience building scalable mobile applications across SaaS, hospitality, government, and blockchain domains. Strong expertise in Flutter architecture, GraphQL integration, monorepo development, and CI/CD automation. Experienced in delivering production-ready applications published on the App Store and Google Play with a focus on maintainability, performance, and clean architecture.\nStrong English reading & listening comprehension, with hands-on experience writing technical documentation in English. Actively leverages AI tools (ChatGPT, Gemini for research; Claude for custom development skills, MCP workflows, and Figma-to-code generation) to accelerate delivery."
+      },
+      "experience": [
+        {
+          "id": "id-1789368592328-i8lzp1",
+          "title": "Senior Flutter Developer",
+          "org": "Enosta — Da Nang",
+          "dateRange": "April 2025 – Present",
+          "bullets": "Developed and maintained Smartos Admin, a production mobile application published on the App Store and Google Play (April 2025 – June 2026).\nTransitioned to independently lead development of Đại Thắng Holdings, a multi-tenant white-label investor portal, from architecture through release (June 2026 – Present).\nContributed to building and improving the base project structure and development guidelines; identified technical risks early and proposed refactoring (module consolidation, dependency conflict resolution in Melos monorepo).\nOptimized build performance to improve development and release efficiency.\nWrote project documentation and mentored team members during development.\nParticipated in code reviews, dev testing against QA checklists, and sprint planning/estimation to ensure release quality.\nCollaborated with cross-functional teams to deliver product features."
+        },
+        {
+          "id": "id-1789368592328-0p5le2",
+          "title": "Middle Flutter Developer",
+          "org": "Revotech, MiraboTech",
+          "dateRange": "May 2024 – April 2025",
+          "bullets": "Refactored legacy Flutter codebases and integrated updated libraries, enhancing scalability and improving user experience across platforms.\nDevised and deployed automated unit testing frameworks (flutter_test, Mockito), accelerating release cycles and improving reliability.\nIntegrated RESTful APIs and managed state using BLoC architecture, reducing complexity while supporting real-time data synchronization."
+        },
+        {
+          "id": "id-1789456123001-ezc001",
+          "title": "Flutter Developer",
+          "org": "ezCloud, Ha Noi",
+          "dateRange": "April 2023 – May 2024",
+          "bullets": "Developed and maintained hotel management applications, implementing business features and optimizing performance.\nCollaborated with team members to improve maintainability and user experience.\nFixed production issues and improved application stability."
+        },
+        {
+          "id": "id-1789456123002-syn001",
+          "title": "Flutter Developer",
+          "org": "Synodus, Ha Noi",
+          "dateRange": "April 2021 – March 2023",
+          "bullets": "Developed Flutter applications for blockchain and government domains.\nImplemented UI and integrated REST APIs, optimizing performance and fixing production issues.\nCollaborated with cross-functional teams in an Agile environment."
+        },
+        {
+          "id": "id-1789456123003-vtt001",
+          "title": "IT Specialist",
+          "org": "Viettel Son La, Viettel",
+          "dateRange": "July 2017 – March 2021",
+          "bullets": "Supported IT products and services including hardware, software, user management, and networking.\nMaintained technical documentation and internal software handover materials.\nAssisted customers with product requirements and served as a liaison between customers and support teams."
+        }
+      ],
+      "projects": [
+        {
+          "id": "id-1789456123010-sma001",
+          "name": "Smartos Admin",
+          "org": "Enosta",
+          "dateRange": "April 2025 – June 2026",
+          "bullets": "Production business management application published on the App Store and Google Play.\nBuilt and maintained a scalable Flutter architecture with reusable modules in a Monorepo (Melos) structure.\nIntegrated GraphQL APIs, optimized data workflows, and implemented CI/CD automation for build and release.\nOptimized build performance to improve development and release efficiency."
+        },
+        {
+          "id": "id-1789368592328-i1fu3w",
+          "name": "Đại Thắng Holdings (Investor Portal)",
+          "org": "Enosta, Solo Project",
+          "dateRange": "June 2026 – Present",
+          "bullets": "Independently architected and built the mobile app (Flutter) for a production multi-tenant/white-label investor portal, from foundation to release v1.0.0 — solo ownership of the mobile client only (backend GraphQL services provided separately).\nUsed Riverpod 3 (code-gen), integrated with 4 backend GraphQL services, go_router, and Firebase Remote Config with dynamic per-tenant branding.\nEngineered an AI-assisted development workflow with 20+ custom Claude Code skills/agents (Figma-to-Flutter code generation, GraphQL API scaffolding, automated UI/performance/device-matrix testing, documentation generation) to accelerate solo delivery.\nSet up encrypted secrets management and multi-environment CI/CD (dev/staging/prod) for build and release.\nDevelopment complete; pending client approval for Google Play release and Apple unlisted-app review, targeting release on August 10, 2026."
+        },
+        {
+          "id": "id-1789456123011-ezc002",
+          "name": "ezCloudHotel Manager",
+          "org": "ezCloud",
+          "dateRange": "April 2023 – May 2024",
+          "bullets": "Hotel management mobile application with business workflow management features and REST API integration."
+        },
+        {
+          "id": "id-1789456123012-mpi001",
+          "name": "MPI Vietnam",
+          "org": "Synodus",
+          "dateRange": "January 2022 – March 2023",
+          "bullets": "Government application handling large-scale data, built on BLoC architecture."
+        },
+        {
+          "id": "id-1789456123013-defi01",
+          "name": "DeFi For You",
+          "org": "Synodus",
+          "dateRange": "April 2021 – December 2021",
+          "bullets": "Blockchain wallet and fintech application with Web3 integration and secure transaction workflows."
+        }
+      ],
+      "education": [
+        {
+          "id": "id-1789368592328-s62c5b",
+          "degree": "Bachelor of Information Technology",
+          "school": "Tay Bac University",
+          "dateRange": "2017",
+          "note": "GPA: 3.3"
+        }
+      ],
+      "skills": [
+        {
+          "id": "id-1789368592328-ujtcce",
+          "category": "Languages",
+          "value": "Dart, Kotlin, JavaScript"
+        },
+        {
+          "id": "id-1789368592328-wvmaq2",
+          "category": "Mobile Development",
+          "value": "Flutter, BLoC, MVVM, Clean Architecture, Provider, GetX, RxDart"
+        },
+        {
+          "id": "id-1789456123020-nat001",
+          "category": "Native Mobile",
+          "value": "Kotlin/Android (~8 months hands-on native experience)"
+        },
+        {
+          "id": "id-1789456123021-api001",
+          "category": "APIs & Networking",
+          "value": "REST API, GraphQL (Ferry), WebSocket, SignalR"
+        },
+        {
+          "id": "id-1789456123022-sto001",
+          "category": "Local Storage & Offline",
+          "value": "SQLite, Hive, flutter_secure_storage, SharedPreferences"
+        },
+        {
+          "id": "id-1789456123023-bck001",
+          "category": "Backend & Services",
+          "value": "Firebase (Cloud Messaging, Analytics, Crashlytics, Remote Config), NodeJS, NestJS, OneSignal, Web3"
+        },
+        {
+          "id": "id-1789456123024-tst001",
+          "category": "Testing",
+          "value": "Unit Testing (flutter_test, Mockito)"
+        },
+        {
+          "id": "id-1789456123025-dev001",
+          "category": "DevOps & Tools",
+          "value": "GitHub Actions, Fastlane, Monorepo, Melos, Git, Jira, Figma"
+        },
+        {
+          "id": "id-1789368592328-jp1tl4",
+          "category": "AI-Assisted Development",
+          "value": "ChatGPT & Gemini (research); Claude (custom skills, MCP workflows, Figma-to-UI code generation)"
+        },
+        {
+          "id": "id-1789456123026-frt001",
+          "category": "Frontend (self-taught)",
+          "value": "React"
+        },
+        {
+          "id": "id-1789456123027-eng001",
+          "category": "English",
+          "value": "Strong reading & listening comprehension; writes technical documentation in English"
+        },
+        {
+          "id": "id-1789456123028-add001",
+          "category": "Additional",
+          "value": "CI/CD, App Performance Optimization, Code Review, Agile/Scrum, App Store & Google Play Deployment"
+        }
+      ]
     }
-  ],
-  "education": [
-    {
-      "id": "id-1789368592328-s62c5b",
-      "degree": "Bachelor of Information Technology",
-      "school": "Tay Bac University",
-      "dateRange": "2017",
-      "note": "GPA: 3.3"
-    }
-  ],
-  "skills": [
-    {
-      "id": "id-1789368592328-ujtcce",
-      "category": "Languages",
-      "value": "Dart, Kotlin, JavaScript"
-    },
-    {
-      "id": "id-1789368592328-wvmaq2",
-      "category": "Mobile Development",
-      "value": "Flutter, BLoC, MVVM, Clean Architecture, Provider, GetX, RxDart"
-    },
-    {
-      "id": "id-1789456123020-nat001",
-      "category": "Native Mobile",
-      "value": "Kotlin/Android (~8 months hands-on native experience)"
-    },
-    {
-      "id": "id-1789456123021-api001",
-      "category": "APIs & Networking",
-      "value": "REST API, GraphQL (Ferry), WebSocket, SignalR"
-    },
-    {
-      "id": "id-1789456123022-sto001",
-      "category": "Local Storage & Offline",
-      "value": "SQLite, Hive, flutter_secure_storage, SharedPreferences"
-    },
-    {
-      "id": "id-1789456123023-bck001",
-      "category": "Backend & Services",
-      "value": "Firebase (Cloud Messaging, Analytics, Crashlytics, Remote Config), NodeJS, NestJS, OneSignal, Web3"
-    },
-    {
-      "id": "id-1789456123024-tst001",
-      "category": "Testing",
-      "value": "Unit Testing (flutter_test, Mockito)"
-    },
-    {
-      "id": "id-1789456123025-dev001",
-      "category": "DevOps & Tools",
-      "value": "GitHub Actions, Fastlane, Monorepo, Melos, Git, Jira, Figma"
-    },
-    {
-      "id": "id-1789368592328-jp1tl4",
-      "category": "AI-Assisted Development",
-      "value": "ChatGPT & Gemini (research); Claude (custom skills, MCP workflows, Figma-to-UI code generation)"
-    },
-    {
-      "id": "id-1789456123026-frt001",
-      "category": "Frontend (self-taught)",
-      "value": "React"
-    },
-    {
-      "id": "id-1789456123027-eng001",
-      "category": "English",
-      "value": "Strong reading & listening comprehension; writes technical documentation in English"
-    },
-    {
-      "id": "id-1789456123028-add001",
-      "category": "Additional",
-      "value": "CI/CD, App Performance Optimization, Code Review, Agile/Scrum, App Store & Google Play Deployment"
-    }
-  ]
+
 }
